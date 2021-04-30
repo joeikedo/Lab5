@@ -6,7 +6,7 @@
 
 ## Part 1:
 
-LINK TO YOUR PUBLISHED SITE
+[Link To Published Site](https://joeikedo.github.io/Lab5/)
 
 ## Part 2:
 
