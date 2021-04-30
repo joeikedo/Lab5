@@ -10,4 +10,4 @@
 
 ## Part 2:
 
-LINK TO YOUR PART 2 REPOSITORY
+[Link to Part 2](https://github.com/joeikedo/github-actions-for-ci/issues/7)
